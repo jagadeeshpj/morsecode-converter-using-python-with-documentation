@@ -40,3 +40,15 @@ gui.py :- This is the module where you can run the code with its simple GUI inte
 gui_support.py :- This is module with try and except for importing the right library and for displaying GUI.
 
 run.py :- This module deals with running of code with GUI. It is terminal based for the sake of simplicity.
+
+
+FOR CONVERTING PYTHON FILE  TO EXE 
+MODULES USED
+* pyinstaller.py
+* .ico  {image format}
+
+SPECIALLY   UPLOADED THE DOCUMENTATION OF THIS PROJECT FOR UR REFERENCE😊😊😊😊😊😊
+
+
+PLEASE SHARE AND SUPPORT
+❤❤❤
