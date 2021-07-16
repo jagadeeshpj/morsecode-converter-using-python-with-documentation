@@ -43,6 +43,7 @@ run.py :- This module deals with running of code with GUI. It is terminal based 
 
 
 FOR CONVERTING PYTHON FILE  TO EXE 
+
 MODULES USED
 * pyinstaller.py
 * .ico  {image format}
